@@ -30,7 +30,7 @@ window.__gf=async(o)=>{localStorage.__gfres='[]';try{
  if(o.section){const s=document.getElementById('shop-section-select');s.value=o.section;s.dispatchEvent(new Event('change',{bubbles:true}));}
  await __sl(o.wait||15000);
  const nimg=[...document.querySelectorAll('img')].filter(i=>document.querySelector('textarea[name=title]').compareDocumentPosition(i)&2&&i.offsetParent&&/etsystatic/.test(i.src)).length;
- const nf=[...document.querySelectorAll('button')].filter(b=>/\.pdf$/.test(b.innerText.trim())).length;
+ const nf=(o.pdfs||[]).filter(n=>document.body.innerText.includes(n)).length;
  const t=document.body.innerText;const a=t.indexOf('Add up to 13 tags');const ntag=(t.slice(a,a+700).match(/All 13 used/)?13:-1);
  __log(`check imgs=${nimg} pdfs=${nf} tags=${ntag}`);
  if(o.publish===false){__log('NOPUB');return;}

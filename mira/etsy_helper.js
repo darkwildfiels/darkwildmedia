@@ -18,7 +18,7 @@ window.__gf=async(o)=>{localStorage.__gfres='[]';try{
  const da=__btn('Delete all')[0], tda=__near('listing-tags-input','Delete all',9);
  if(da&&da!==tda){da.click();await __sl(1200);const c=__dlgBtn('Delete all')||__dlgBtn('Delete');if(c)c.click();await __sl(1800);}
  await __files(__fin(false),o.imgs.map(n=>[__RAW+o.k+'/'+n,n,'image/jpeg']));__log('imgs sent');
- for(const b of [...document.querySelectorAll('button[aria-label=Remove]')]){b.click();await __sl(600);}
+ if(o.pdfs&&o.pdfs.length)for(const b of [...document.querySelectorAll('button[aria-label=Remove]')]){b.click();await __sl(600);}
  await __sl(800);
  if(o.pdfs&&o.pdfs.length){await __files(__fin(true),o.pdfs.map(n=>[__RAW+o.k+'/'+n,n,'application/pdf']));__log('pdfs sent');}
  __setv(document.querySelector('textarea[name=title]'),T);

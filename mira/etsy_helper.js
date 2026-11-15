@@ -40,3 +40,16 @@ window.__gf=async(o)=>{localStorage.__gfres='[]';try{
  __log('published?');
 }catch(e){__log('ERR '+e);}};
 'helper ok';
+window.__cv=async(k,imgs)=>{localStorage.__gfres='[]';try{__log('start '+k);
+ imgs=imgs||['01_cover_v2.jpg','02_compare.jpg','03_inside.jpg','04_page.jpg','05_page.jpg','06_how.jpg'];
+ const blobs=[];for(const n of imgs){blobs.push([await gx(__RAW+k+'/'+n),n]);}__log('fetched '+blobs.length);
+ const da=__btn('Delete all')[0], tda=__near('listing-tags-input','Delete all',9);
+ if(!da||da===tda){__log('ABORT no img delete');return;}
+ da.click();await __sl(1200);const c=__dlgBtn('Delete all')||__dlgBtn('Delete');if(c)c.click();await __sl(1800);
+ const dt=new DataTransfer();for(const [b,n] of blobs)dt.items.add(new File([b],n,{type:'image/jpeg'}));const inp=__fin(false);inp.files=dt.files;inp.dispatchEvent(new Event('change',{bubbles:true}));__log('imgs sent');
+ await __sl(20000);
+ const ft=document.querySelector('textarea[name=title]');const ids=new Set([...document.querySelectorAll('img')].filter(i=>ft.compareDocumentPosition(i)&2&&i.offsetParent&&/etsystatic/.test(i.src)).map(i=>(i.src.match(/il_\w+\.(\d+)_/)||[])[1]).filter(Boolean));
+ __log('imgs='+ids.size);if(ids.size<imgs.length){__log('ABORT count');return;}
+ const pb=__btn('Publish changes')[0];pb.click();await __sl(4000);
+ for(let i=0;i<3;i++){const b=__dlgBtn('Publish')||__dlgBtn('Skip and continue')||__dlgBtn('Publish changes');if(!b)break;__log('dlg '+b.innerText.trim());b.click();await __sl(4000);}
+ __log('saved?');}catch(e){__log('ERR '+e);}};

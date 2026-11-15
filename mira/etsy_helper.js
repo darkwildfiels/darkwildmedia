@@ -53,3 +53,21 @@ window.__cv=async(k,imgs)=>{localStorage.__gfres='[]';try{__log('start '+k);
  const pb=__btn('Publish changes')[0];pb.click();await __sl(4000);
  for(let i=0;i<3;i++){const b=__dlgBtn('Publish')||__dlgBtn('Skip and continue')||__dlgBtn('Publish changes');if(!b)break;__log('dlg '+b.innerText.trim());b.click();await __sl(4000);}
  __log('saved?');}catch(e){__log('ERR '+e);}};
+window.__mediaDlg=()=>[...document.querySelectorAll('[role=dialog]')].find(x=>x.offsetParent&&x.innerText.includes('Photo and video'));
+window.__curImgs=()=>{const ft=document.querySelector('textarea[name=title]');return [...new Set([...document.querySelectorAll('img')].filter(i=>ft.compareDocumentPosition(i)&2&&i.offsetParent&&/etsystatic/.test(i.src)).map(i=>(i.src.match(/\.(\d+)_\w+\.jpg/)||[])[1]).filter(Boolean))];};
+window.__cv2=async(k)=>{localStorage.__gfres='[]';try{__log('start '+k);
+ const imgs=['01_cover_v2.jpg','02_compare.jpg','03_inside.jpg','04_page.jpg','05_page.jpg','06_how.jpg'];
+ const files=[];for(const n of imgs)files.push(new File([await gx(__RAW+k+'/'+n)],n,{type:'image/jpeg'}));__log('fetched');
+ const old=__curImgs();__log('old '+old.length);
+ __btn('Featured')[0].click();await __sl(2000);
+ for(let i=0;i<12;i++){const d=__mediaDlg();if(!d)break;const b=d.querySelector('[data-delete-selected-media]');if(!b)break;b.click();await __sl(1200);}
+ const d=__mediaDlg();if(d){const dn=[...d.querySelectorAll('button')].find(b=>b.innerText.trim()=='Done');dn&&dn.click();}await __sl(1500);
+ if(__curImgs().length){__log('ABORT not empty '+__curImgs().length);return;}
+ const seq=[];
+ for(const f of files){const before=__curImgs();const dt=new DataTransfer();dt.items.add(f);const inp=__fin(false);inp.files=dt.files;inp.dispatchEvent(new Event('change',{bubbles:true}));
+  let nw=null;for(let t=0;t<40&&!nw;t++){await __sl(1000);nw=__curImgs().find(x=>!before.includes(x));} if(!nw){__log('ABORT upload '+f.name);return;} seq.push(nw);}
+ const now=__curImgs();__log('order ok='+(JSON.stringify(now.slice(0,6))==JSON.stringify(seq)));
+ if(now.length!=6||now[0]!=seq[0]){__log('ABORT order '+now.join(','));return;}
+ __btn('Publish changes')[0].click();await __sl(5000);
+ for(let i=0;i<3;i++){const b=__dlgBtn('Publish')||__dlgBtn('Skip and continue')||__dlgBtn('Publish changes');if(!b)break;__log('dlg '+b.innerText.trim());b.click();await __sl(4000);}
+ __log('saved '+location.pathname);}catch(e){__log('ERR '+e);}};

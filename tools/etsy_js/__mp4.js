@@ -1,0 +1,1 @@
+async()=>{const S=ms=>new Promise(r=>setTimeout(r,ms));[...document.querySelectorAll('button')].find(b=>b.innerText.trim()==='Publish').click();await S(4000);const bs=[...document.querySelectorAll('button')].filter(b=>b.innerText.trim()==='Publish');bs[bs.length-1].click();await S(10000);return location.href}

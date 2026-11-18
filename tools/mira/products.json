@@ -1,0 +1,1159 @@
+{
+ "A": {
+  "name": "Cozy Christmas Coloring Pages - Bold & Easy",
+  "price": 4.99,
+  "pages": [
+   "A1",
+   "A2",
+   "A3",
+   "A4",
+   "A5"
+  ],
+  "section": "Seasonal & Holiday",
+  "brief": "5 printable Christmas coloring pages in a BOLD AND EASY style (thick lines, large spaces) for adults, seniors and beginners: cozy fireplace with stockings and sleeping cat, decorated Christmas tree with gifts, gingerbread house, snowman in a snowy village, hot cocoa with cookies and candles.",
+  "sub": "Bold & easy designs for adults & seniors"
+ },
+ "B": {
+  "name": "Christmas Coloring Pages for Kids",
+  "price": 3.99,
+  "pages": [
+   "B1",
+   "B2",
+   "B3",
+   "B4",
+   "B5"
+  ],
+  "section": "Kids Coloring Pages",
+  "brief": "5 printable Christmas coloring pages for kids ages 4-8, cute simple cartoon style with thick lines: baby reindeer with Christmas lights, Santa's sleigh over rooftops, penguin ice skating, little elf decorating a tree, polar bear cub hugging a present. Great for classroom parties, Christmas break and quiet time.",
+  "sub": "Cute & simple pages for ages 4-8"
+ },
+ "C": {
+  "name": "Winter Cottage Coloring Pages - Bold & Easy",
+  "price": 4.99,
+  "pages": [
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "brief": "5 printable winter countryside coloring pages in a BOLD AND EASY style for adults and seniors: snowy cottage with chimney smoke, two cardinal birds on a snowy branch, cozy cabin porch with lantern and sled, covered bridge over a frozen creek, vintage pickup truck carrying a Christmas tree.",
+  "sub": "Peaceful winter scenes, bold & easy"
+ },
+ "D": {
+  "name": "Cute Dog Coloring Pages - Bold & Easy",
+  "price": 4.99,
+  "pages": [
+   "D1",
+   "D2",
+   "D3",
+   "D4",
+   "D5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "brief": "5 printable dog coloring pages in a BOLD AND EASY style for adults, seniors, teens and dog lovers: golden retriever puppy with a ball, dachshund in a knitted sweater, corgi in a flower garden, french bulldog with teacup and books, beagle puppy sleeping in a basket.",
+  "sub": "For dog lovers of every age"
+ },
+ "E": {
+  "name": "Cozy Cat Coloring Pages - Bold & Easy",
+  "price": 4.99,
+  "pages": [
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "brief": "5 printable cat coloring pages in a BOLD AND EASY style for adults, seniors and cat lovers: kitten in a teacup, cat on a window sill with plants, cat playing with yarn, cat curled on a stack of books, cat sleeping on a patchwork quilt.",
+  "sub": "Cozy kitty scenes, bold & easy"
+ },
+ "F": {
+  "name": "Floral Mandala Coloring Pages for Adults",
+  "price": 4.99,
+  "pages": [
+   "F1",
+   "F2",
+   "F3",
+   "F4",
+   "F5"
+  ],
+  "section": "Adult Coloring Pages",
+  "brief": "5 printable detailed mandala coloring pages for adults, relaxing and mindful: flower mandala, butterfly mandala, sun mandala, lotus mandala, heart-shaped floral mandala. Intricate but well-spaced patterns for stress relief.",
+  "sub": "Relaxing mandalas for mindful coloring"
+ },
+ "X": {
+  "name": "Christmas Coloring Bundle - 15 Pages",
+  "price": 9.99,
+  "pages": [
+   "A1",
+   "A2",
+   "A3",
+   "A4",
+   "A5",
+   "B1",
+   "B2",
+   "B3",
+   "B4",
+   "B5",
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5"
+  ],
+  "section": "Coloring Bundles",
+  "brief": "BUNDLE of 15 printable Christmas and winter coloring pages for the whole family: 5 bold & easy cozy Christmas pages for adults/seniors, 5 cute Christmas pages for kids, 5 bold & easy winter cottage scenes. Saves money versus buying the three sets separately. Perfect for Christmas break, family nights and holiday parties.",
+  "sub": "Cozy Christmas + Kids + Winter Cottage"
+ },
+ "Y": {
+  "name": "Mega Coloring Bundle - 30 Pages",
+  "price": 14.99,
+  "pages": [
+   "A1",
+   "A2",
+   "A3",
+   "A4",
+   "A5",
+   "B1",
+   "B2",
+   "B3",
+   "B4",
+   "B5",
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "D1",
+   "D2",
+   "D3",
+   "D4",
+   "D5",
+   "E1",
+   "E2",
+   "E3",
+   "E4",
+   "E5",
+   "F1",
+   "F2",
+   "F3",
+   "F4",
+   "F5"
+  ],
+  "section": "Coloring Bundles",
+  "brief": "MEGA BUNDLE of all 30 printable coloring pages from our shop: cozy Christmas (bold & easy), kids Christmas, winter cottage scenes, cute dogs, cozy cats and floral mandalas. Best value - something for every age and mood, all year round.",
+  "sub": "Christmas, winter, dogs, cats & mandalas"
+ },
+ "P": {
+  "name": "Custom Pet Coloring Page from Your Photo",
+  "price": 12.99,
+  "custom": true,
+  "section": "Custom Pet Coloring Page",
+  "brief": "PERSONALIZED digital coloring page made from the buyer's own pet photo (dog, cat, any pet). Buyer sends a clear photo and the pet's name via Etsy message or personalization box; we create a clean line-art coloring page with the pet's name, send a preview within 24-48 hours with one free round of edits, then deliver a printable PDF (US Letter + A4) through Etsy. Great gift for pet lovers, kids, pet memorial, Christmas stocking stuffer. Made with the help of digital and AI tools and checked by hand.",
+  "sub": "Your pet, turned into a coloring page"
+ },
+ "Q": {
+  "name": "Custom Family or House Coloring Page from Your Photo",
+  "price": 14.99,
+  "custom": true,
+  "section": "Custom Pet Coloring Page",
+  "brief": "PERSONALIZED digital coloring page made from the buyer's own photo of their family, couple or house/home. Buyer sends a clear photo via Etsy message; we create a clean line-art coloring page (optional name or date text), send a preview within 24-48 hours with one free round of edits, then deliver a printable PDF (US Letter + A4) through Etsy. Great as a Christmas gift, new home gift, grandparents gift or family activity. Made with the help of digital and AI tools and checked by hand.",
+  "sub": "Your family or home as a coloring page"
+ },
+ "W": {
+  "name": "Thanksgiving Coloring Pages - Bold & Easy",
+  "price": 3.99,
+  "pages": [
+   "W1",
+   "W2",
+   "W3",
+   "W4",
+   "W5"
+  ],
+  "section": "Seasonal & Holiday",
+  "brief": "5 printable Thanksgiving coloring pages in a bold and easy style for kids, adults and seniors: harvest turkey dinner, cute pilgrim turkey with Happy Thanksgiving sign, cornucopia, cozy autumn porch with scarecrow, pumpkin pie with coffee.",
+  "sub": "Bold & easy fall pages for all ages"
+ },
+ "G": {
+  "name": "Santa's Workshop Christmas Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "G1",
+   "G2",
+   "G3",
+   "G4",
+   "G5"
+  ],
+  "section": "Seasonal & Holiday",
+  "brief": "5 printable Santa's workshop Christmas coloring pages: Santa painting toys, elves wrapping presents, Santa checking his list by the fire, loading the sleigh at the North Pole, reindeer in a snowy stable.",
+  "sub": "Classic Christmas scenes for all ages"
+ },
+ "H": {
+  "name": "Christmas Gnome Coloring Pages - Bold & Easy",
+  "price": 4.99,
+  "pages": [
+   "H1",
+   "H2",
+   "H3",
+   "H4",
+   "H5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "brief": "5 printable Christmas gnome coloring pages in a bold and easy style for adults and seniors: gnomes with a lantern in the snow, gnome on a stack of gifts, gnome decorating a tree, gnome with hot cocoa, gnomes in a snowy mushroom house.",
+  "sub": "Cute Scandinavian gnomes, bold lines"
+ },
+ "I": {
+  "name": "Gingerbread Christmas Coloring Pages - Bold & Easy",
+  "price": 4.99,
+  "pages": [
+   "I1",
+   "I2",
+   "I3",
+   "I4",
+   "I5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "brief": "5 printable gingerbread coloring pages in a bold and easy style: candy gingerbread house, cookie baking tray, gingerbread village, gingerbread girl and boy with peppermints, Christmas cookie jar.",
+  "sub": "Sweet holiday baking scenes"
+ },
+ "J": {
+  "name": "Winter Animals Coloring Pages - Bold & Easy",
+  "price": 4.99,
+  "pages": [
+   "J1",
+   "J2",
+   "J3",
+   "J4",
+   "J5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "brief": "5 printable winter woodland animal coloring pages in a bold and easy style for adults and seniors: sleeping fox, snowy owl, deer in the forest, rabbit by a little tree, cardinal and chickadee on a berry branch.",
+  "sub": "Woodland animals in the snow"
+ },
+ "K": {
+  "name": "Snowman Coloring Pages for Kids",
+  "price": 3.99,
+  "pages": [
+   "K1",
+   "K2",
+   "K3",
+   "K4",
+   "K5"
+  ],
+  "section": "Kids Coloring Pages",
+  "brief": "5 printable snowman coloring pages for kids ages 3-8 with thick simple lines: happy waving snowman, kids building a snowman, snowman family, snowman sledding with a penguin, snowman decorating a tree. Great for classrooms and winter break.",
+  "sub": "Cute & simple pages for ages 3-8"
+ },
+ "O": {
+  "name": "Cozy Winter Coloring Pages - Bold & Easy",
+  "price": 4.99,
+  "pages": [
+   "O1",
+   "O2",
+   "O3",
+   "O4",
+   "O5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "brief": "5 printable cozy hygge winter coloring pages in a bold and easy style for adults: hot cocoa with marshmallows, armchair by a snowy window, Christmas kitchen counter, reading nook with a sleeping cat, winter breakfast table.",
+  "sub": "Hygge scenes for relaxing"
+ },
+ "R": {
+  "name": "Christmas Village Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "R1",
+   "R2",
+   "R3",
+   "R4",
+   "R5"
+  ],
+  "section": "Seasonal & Holiday",
+  "brief": "5 printable Christmas village coloring pages for adults: snowy shopping street, village church at night, Christmas market, horse drawn carriage, ice skating pond with a big tree.",
+  "sub": "Snowy village scenes to color"
+ },
+ "T": {
+  "name": "Christmas Dogs Coloring Pages - Bold & Easy",
+  "price": 4.99,
+  "pages": [
+   "T1",
+   "T2",
+   "T3",
+   "T4",
+   "T5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "brief": "5 printable Christmas dog coloring pages in a bold and easy style: golden retriever in a sweater, dachshund in a stocking, french bulldog with antlers, puppy under the tree, corgi in an ugly Christmas sweater.",
+  "sub": "Dogs in sweaters & Santa hats"
+ },
+ "S": {
+  "name": "Christmas Ornaments Coloring Pages - Large Print",
+  "price": 3.99,
+  "pages": [
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "S5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "brief": "5 printable large print Christmas coloring pages with very thick lines and big simple shapes, ideal for seniors, dementia activities, low vision and young kids: ornament, bell, stocking, star, gift box.",
+  "sub": "Extra bold, large and simple"
+ },
+ "BA": {
+  "name": "Christmas Coloring Book - 50 Pages",
+  "price": 12.99,
+  "pages": [
+   "A1",
+   "A2",
+   "A3",
+   "A4",
+   "A5",
+   "B1",
+   "B2",
+   "B3",
+   "B4",
+   "B5",
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "G1",
+   "G2",
+   "G3",
+   "G4",
+   "G5",
+   "H1",
+   "H2",
+   "H3",
+   "H4",
+   "H5",
+   "I1",
+   "I2",
+   "I3",
+   "I4",
+   "I5",
+   "K1",
+   "K2",
+   "K3",
+   "K4",
+   "K5",
+   "O1",
+   "O2",
+   "O3",
+   "O4",
+   "O5",
+   "R1",
+   "R2",
+   "R3",
+   "R4",
+   "R5",
+   "T1",
+   "T2",
+   "T3",
+   "T4",
+   "T5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "Our biggest Christmas collection",
+  "brief": ""
+ },
+ "BK": {
+  "name": "Kids Christmas Coloring Book - 20 Pages",
+  "price": 7.99,
+  "pages": [
+   "B1",
+   "B2",
+   "B3",
+   "B4",
+   "B5",
+   "K1",
+   "K2",
+   "K3",
+   "K4",
+   "K5",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "S5",
+   "T1",
+   "T2",
+   "T3",
+   "T4",
+   "T5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "Cute & simple pages for ages 3-8",
+  "brief": ""
+ },
+ "BS": {
+  "name": "Bold and Easy Coloring Book for Seniors - 30 Pages",
+  "price": 9.99,
+  "pages": [
+   "H1",
+   "H2",
+   "H3",
+   "H4",
+   "H5",
+   "I1",
+   "I2",
+   "I3",
+   "I4",
+   "I5",
+   "J1",
+   "J2",
+   "J3",
+   "J4",
+   "J5",
+   "O1",
+   "O2",
+   "O3",
+   "O4",
+   "O5",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "S5",
+   "T1",
+   "T2",
+   "T3",
+   "T4",
+   "T5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "Thick lines, big spaces, relaxing",
+  "brief": ""
+ },
+ "BC": {
+  "name": "Adult Christmas Coloring Book - 30 Pages",
+  "price": 9.99,
+  "pages": [
+   "G1",
+   "G2",
+   "G3",
+   "G4",
+   "G5",
+   "R1",
+   "R2",
+   "R3",
+   "R4",
+   "R5",
+   "O1",
+   "O2",
+   "O3",
+   "O4",
+   "O5",
+   "H1",
+   "H2",
+   "H3",
+   "H4",
+   "H5",
+   "I1",
+   "I2",
+   "I3",
+   "I4",
+   "I5",
+   "J1",
+   "J2",
+   "J3",
+   "J4",
+   "J5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "Cozy & detailed holiday scenes",
+  "brief": ""
+ },
+ "M": {
+  "name": "Christmas Mandala Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "M1",
+   "M2",
+   "M3",
+   "M4",
+   "M5"
+  ],
+  "section": "Seasonal & Holiday",
+  "sub": "Festive mandalas for mindful coloring",
+  "brief": ""
+ },
+ "L": {
+  "name": "Large Print Winter Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "L1",
+   "L2",
+   "L3",
+   "L4",
+   "L5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "sub": "Extra bold, large and simple",
+  "brief": ""
+ },
+ "BM": {
+  "name": "Mandala Coloring Book - 10 Pages",
+  "price": 6.99,
+  "pages": [
+   "F1",
+   "F2",
+   "F3",
+   "F4",
+   "F5",
+   "M1",
+   "M2",
+   "M3",
+   "M4",
+   "M5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "Floral & Christmas mandalas",
+  "brief": ""
+ },
+ "BD": {
+  "name": "Dementia Activity Coloring Pages - 10 Pages",
+  "price": 6.99,
+  "pages": [
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "S5",
+   "L1",
+   "L2",
+   "L3",
+   "L4",
+   "L5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "sub": "Large print pages for seniors",
+  "brief": ""
+ },
+ "BG": {
+  "name": "Gnome and Gingerbread Christmas Coloring Pages - 10 Pages",
+  "price": 6.99,
+  "pages": [
+   "H1",
+   "H2",
+   "H3",
+   "H4",
+   "H5",
+   "I1",
+   "I2",
+   "I3",
+   "I4",
+   "I5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "Bold & easy holiday cuties",
+  "brief": ""
+ },
+ "N": {
+  "name": "Nativity Coloring Pages for Kids",
+  "price": 3.99,
+  "pages": [
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "The Christmas story for little hands",
+  "brief": ""
+ },
+ "V": {
+  "name": "Cute Christmas Animals Coloring Pages for Kids",
+  "price": 3.99,
+  "pages": [
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Teddy bears, penguins, reindeer & friends",
+  "brief": ""
+ },
+ "U": {
+  "name": "Christmas Cats Coloring Pages - Bold & Easy",
+  "price": 4.99,
+  "pages": [
+   "U1",
+   "U2",
+   "U3",
+   "U4",
+   "U5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "sub": "Cozy cats, bold lines, big spaces",
+  "brief": ""
+ },
+ "Z": {
+  "name": "Christmas Trucks and Trains Coloring Pages for Kids",
+  "price": 3.99,
+  "pages": [
+   "Z1",
+   "Z2",
+   "Z3",
+   "Z4",
+   "Z5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Trucks, trains & tractors for little drivers",
+  "brief": ""
+ },
+ "KB": {
+  "name": "Kids Christmas Coloring Book - 35 Pages",
+  "price": 8.99,
+  "pages": [
+   "B1",
+   "B2",
+   "B3",
+   "B4",
+   "B5",
+   "K1",
+   "K2",
+   "K3",
+   "K4",
+   "K5",
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "Z1",
+   "Z2",
+   "Z3",
+   "Z4",
+   "Z5",
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "S1",
+   "S2",
+   "S3",
+   "S4",
+   "S5",
+   "T1",
+   "T2",
+   "T3",
+   "T4",
+   "T5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "35 cute & simple pages for ages 3-8",
+  "brief": ""
+ },
+ "CC": {
+  "name": "Christmas Cats and Dogs Coloring Pages - 10 Pages",
+  "price": 6.99,
+  "pages": [
+   "T1",
+   "T2",
+   "T3",
+   "T4",
+   "T5",
+   "U1",
+   "U2",
+   "U3",
+   "U4",
+   "U5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "Bold & easy holiday pets",
+  "brief": ""
+ },
+ "UN": {
+  "name": "Christmas Unicorn Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "UN1",
+   "UN2",
+   "UN3",
+   "UN4",
+   "UN5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Magical unicorns for little dreamers",
+  "brief": ""
+ },
+ "DI": {
+  "name": "Christmas Dinosaur Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "DI1",
+   "DI2",
+   "DI3",
+   "DI4",
+   "DI5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Roar into Christmas",
+  "brief": ""
+ },
+ "FA": {
+  "name": "Christmas Farm Animals Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "FA1",
+   "FA2",
+   "FA3",
+   "FA4",
+   "FA5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Christmas on the farm",
+  "brief": ""
+ },
+ "HA": {
+  "name": "Hanukkah Coloring Pages for Kids",
+  "price": 3.99,
+  "pages": [
+   "HA1",
+   "HA2",
+   "HA3",
+   "HA4",
+   "HA5"
+  ],
+  "section": "Seasonal & Holiday",
+  "sub": "Menorah, dreidel & more",
+  "brief": ""
+ },
+ "CH": {
+  "name": "Christian Christmas Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "CH1",
+   "CH2",
+   "CH3",
+   "CH4",
+   "CH5"
+  ],
+  "section": "Adult Coloring Pages",
+  "sub": "The true story of Christmas",
+  "brief": ""
+ },
+ "CK": {
+  "name": "Christmas Cookies & Treats Coloring",
+  "price": 4.99,
+  "pages": [
+   "CK1",
+   "CK2",
+   "CK3",
+   "CK4",
+   "CK5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "sub": "Bold & easy holiday treats",
+  "brief": ""
+ },
+ "BI": {
+  "name": "Christmas Birds Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "BI1",
+   "BI2",
+   "BI3",
+   "BI4",
+   "BI5"
+  ],
+  "section": "Bold & Easy Coloring",
+  "sub": "Bold & easy winter birds",
+  "brief": ""
+ },
+ "WD": {
+  "name": "Detailed Winter Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "WD1",
+   "WD2",
+   "WD3",
+   "WD4",
+   "WD5"
+  ],
+  "section": "Adult Coloring Pages",
+  "sub": "Intricate winter scenes for adults",
+  "brief": ""
+ },
+ "NB": {
+  "name": "Nutcracker & Ballet Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "NB1",
+   "NB2",
+   "NB3",
+   "NB4",
+   "NB5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "For every little dancer",
+  "brief": ""
+ },
+ "WF": {
+  "name": "Winter Fairy Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "WF1",
+   "WF2",
+   "WF3",
+   "WF4",
+   "WF5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Magical snow fairies",
+  "brief": ""
+ },
+ "CA": {
+  "name": "Christmas Animals Coloring Book",
+  "price": 6.99,
+  "pages": [
+   "UN1",
+   "UN2",
+   "UN3",
+   "UN4",
+   "UN5",
+   "DI1",
+   "DI2",
+   "DI3",
+   "DI4",
+   "DI5",
+   "FA1",
+   "FA2",
+   "FA3",
+   "FA4",
+   "FA5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "Unicorns, dinosaurs & farm animals",
+  "brief": ""
+ },
+ "CX": {
+  "name": "Christian Christmas Coloring Bundle",
+  "price": 6.99,
+  "pages": [
+   "N1",
+   "N2",
+   "N3",
+   "N4",
+   "N5",
+   "CH1",
+   "CH2",
+   "CH3",
+   "CH4",
+   "CH5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "Nativity pages for kids & adults",
+  "brief": ""
+ },
+ "WA": {
+  "name": "Winter Coloring Book for Adults",
+  "price": 8.99,
+  "pages": [
+   "WD1",
+   "WD2",
+   "WD3",
+   "WD4",
+   "WD5",
+   "C1",
+   "C2",
+   "C3",
+   "C4",
+   "C5",
+   "J1",
+   "J2",
+   "J3",
+   "J4",
+   "J5",
+   "O1",
+   "O2",
+   "O3",
+   "O4",
+   "O5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "20 detailed & cozy winter pages",
+  "brief": ""
+ },
+ "VK": {
+  "name": "Valentine's Day Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "VK1",
+   "VK2",
+   "VK3",
+   "VK4",
+   "VK5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Cute animals & big hearts for kids",
+  "brief": ""
+ },
+ "VA": {
+  "name": "Valentine Bold & Easy Coloring",
+  "price": 4.99,
+  "pages": [
+   "VA1",
+   "VA2",
+   "VA3",
+   "VA4",
+   "VA5"
+  ],
+  "section": "Bold and Easy",
+  "sub": "Hearts, roses & love birds",
+  "brief": ""
+ },
+ "KF": {
+  "name": "Kawaii Food Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "KF1",
+   "KF2",
+   "KF3",
+   "KF4",
+   "KF5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Cute boba, sushi, donuts & ice cream",
+  "brief": ""
+ },
+ "BB": {
+  "name": "Baby Animals Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "BB1",
+   "BB2",
+   "BB3",
+   "BB4",
+   "BB5"
+  ],
+  "section": "Bold and Easy",
+  "sub": "Bold & easy cute baby animals",
+  "brief": ""
+ },
+ "OC": {
+  "name": "Ocean Animals Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "OC1",
+   "OC2",
+   "OC3",
+   "OC4",
+   "OC5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Under the sea friends for kids",
+  "brief": ""
+ },
+ "FL": {
+  "name": "Large Print Flower Coloring",
+  "price": 4.99,
+  "pages": [
+   "FL1",
+   "FL2",
+   "FL3",
+   "FL4",
+   "FL5"
+  ],
+  "section": "Bold and Easy",
+  "sub": "Extra bold flowers for seniors",
+  "brief": ""
+ },
+ "MF": {
+  "name": "Mushroom & Frog Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "MF1",
+   "MF2",
+   "MF3",
+   "MF4",
+   "MF5"
+  ],
+  "section": "Adult Coloring Pages",
+  "sub": "Cozy cottagecore forest scenes",
+  "brief": ""
+ },
+ "FH": {
+  "name": "Fairy House Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "FH1",
+   "FH2",
+   "FH3",
+   "FH4",
+   "FH5"
+  ],
+  "section": "Adult Coloring Pages",
+  "sub": "Detailed whimsical fairy homes",
+  "brief": ""
+ },
+ "SX": {
+  "name": "Space Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "SX1",
+   "SX2",
+   "SX3",
+   "SX4",
+   "SX5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Astronauts, rockets & planets",
+  "brief": ""
+ },
+ "ME": {
+  "name": "Mermaid Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "ME1",
+   "ME2",
+   "ME3",
+   "ME4",
+   "ME5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Cute mermaids under the sea",
+  "brief": ""
+ },
+ "CT": {
+  "name": "Cozy Cat Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "CT1",
+   "CT2",
+   "CT3",
+   "CT4",
+   "CT5"
+  ],
+  "section": "Bold and Easy",
+  "sub": "Cats with books, plants & tea",
+  "brief": ""
+ },
+ "DG": {
+  "name": "Dog Breeds Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "DG1",
+   "DG2",
+   "DG3",
+   "DG4",
+   "DG5"
+  ],
+  "section": "Bold and Easy",
+  "sub": "Golden, corgi, dachshund & more",
+  "brief": ""
+ },
+ "BF": {
+  "name": "Butterfly Garden Coloring Pages",
+  "price": 4.99,
+  "pages": [
+   "BF1",
+   "BF2",
+   "BF3",
+   "BF4",
+   "BF5"
+  ],
+  "section": "Adult Coloring Pages",
+  "sub": "Detailed butterflies & flowers",
+  "brief": ""
+ },
+ "SD": {
+  "name": "Snow Day Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "SD1",
+   "SD2",
+   "SD3",
+   "SD4",
+   "SD5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Snowmen, sledding & hot cocoa",
+  "brief": ""
+ },
+ "LN": {
+  "name": "Lunar New Year Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "LN1",
+   "LN2",
+   "LN3",
+   "LN4",
+   "LN5"
+  ],
+  "section": "Seasonal",
+  "sub": "Lanterns, dragon dance & dumplings",
+  "brief": ""
+ },
+ "PR": {
+  "name": "Princess Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "PR1",
+   "PR2",
+   "PR3",
+   "PR4",
+   "PR5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Princesses, ponies & castles",
+  "brief": ""
+ },
+ "VB": {
+  "name": "Valentine's Coloring Bundle",
+  "price": 6.99,
+  "pages": [
+   "VK1",
+   "VK2",
+   "VK3",
+   "VK4",
+   "VK5",
+   "VA1",
+   "VA2",
+   "VA3",
+   "VA4",
+   "VA5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "10 pages for kids & adults",
+  "brief": ""
+ },
+ "CY": {
+  "name": "Cottagecore Coloring Book",
+  "price": 8.99,
+  "pages": [
+   "MF1",
+   "MF2",
+   "MF3",
+   "MF4",
+   "MF5",
+   "FH1",
+   "FH2",
+   "FH3",
+   "FH4",
+   "FH5",
+   "BF1",
+   "BF2",
+   "BF3",
+   "BF4",
+   "BF5",
+   "CT1",
+   "CT2",
+   "CT3",
+   "CT4",
+   "CT5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "Frogs, fairy houses, butterflies & cats",
+  "brief": ""
+ }
+}

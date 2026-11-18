@@ -219,7 +219,43 @@ Yeni hesapta çalışmaya başlamadan önce şunları sırayla kontrol et. Eksik
 | d68 | black lab (yağlı boya, ekstra) | 4619617119 |
 | d69 | German shepherd (yağlı boya, ekstra) | 4619624432 |
 
-**Sonraki boş key: `d95`.** Yeni turda d95, d96, … kullan.
+**19 Kasım gece turu (d95–d119, 25 gerçekçi ilan):** hepsi yayında ve doğrulandı; her birinde 9 görsel, 8 cm seçeneği ve video var. SEO dosyası `seo_v8` (Mac'te `yeni2/seo.json`, 127 key). Script: `tools/limira_misc/seo_d6.py`, prompt'lar: `d6_prompts.json`.
+
+| Key | Konu | Etsy id |
+|---|---|---|
+| d95 | tabby cat cloud (memorial) | 4620469486 |
+| d96 | yellow lab meadow (memorial) | 4620469666 |
+| d97 | border collie rainbow bridge | 4620462739 |
+| d98 | husky northern lights | 4620469960 |
+| d99 | pit bull flowers (memorial) | 4620463119 |
+| d100 | yorkie cloud (memorial) | 4620463297 |
+| d101 | log cabin Christmas | 4620470566 |
+| d102 | red barn wreath | 4620470732 |
+| d103 | golden retriever santa hat | 4620475934 |
+| d104 | nativity stable manger | 4620470878 |
+| d105 | European Christmas market | 4620476132 |
+| d106 | covered bridge snow | 4620476292 |
+| d107 | reindeer northern lights | 4620476468 |
+| d108 | lit tree in snow | 4620469599 |
+| d109 | highland cow | 4620469739 |
+| d110 | white horse beach | 4620476954 |
+| d111 | lion portrait | 4620477146 |
+| d112 | mother and baby elephant | 4620484133 |
+| d113 | wolf howling moon | 4620474693 |
+| d114 | mountain lake | 4620477504 |
+| d115 | forest waterfall | 4620481604 |
+| d116 | lighthouse storm | 4620477632 |
+| d117 | cherry blossom path | 4620474975 |
+| d118 | Paris street Eiffel | 4620470681 |
+| d119 | red fox snow | 4620481906 |
+
+**Bu turdan notlar:**
+- d112 ilk publish'te Etsy'ye gitmedi (`external` boş, kilit yok). `publish.json` tekrar çağrılınca geçti.
+- d111'de GitHub raw anlık `xhrerr` verdi; tekrar kuyruğa alınca düzeldi.
+- d96'da cm adları ilk seferde tutmadı; `__cmcode` tek başına tekrar çalıştırılınca düzeldi.
+- Doğrulamayı her zaman yap.
+
+**Sonraki boş key: `d120`.** Yeni turda d120, d121, … kullan.
 
 ### 5.2 Daha önceki turlar (özet)
 - **c01–c08, d01–d22:** 13–14 Kasım ilanları; Noel, kış ve hayvan konuları.

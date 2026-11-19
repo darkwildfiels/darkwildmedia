@@ -1155,5 +1155,620 @@
   "section": "Coloring Bundles",
   "sub": "Frogs, fairy houses, butterflies & cats",
   "brief": ""
+ },
+ "MO": {
+  "name": "Monster Truck Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "MO1",
+   "MO2",
+   "MO3",
+   "MO4",
+   "MO5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Big jumps, mud & crushing cars",
+  "brief": ""
+ },
+ "CV": {
+  "name": "Construction Vehicles Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "CV1",
+   "CV2",
+   "CV3",
+   "CV4",
+   "CV5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Diggers, dump trucks & cranes",
+  "brief": ""
+ },
+ "RC": {
+  "name": "Race Car Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "RC1",
+   "RC2",
+   "RC3",
+   "RC4",
+   "RC5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Fast cars, go-karts & pit stops",
+  "brief": ""
+ },
+ "RB": {
+  "name": "Robot Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "RB1",
+   "RB2",
+   "RB3",
+   "RB4",
+   "RB5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Friendly robots & robot pets",
+  "brief": ""
+ },
+ "PI": {
+  "name": "Pirate Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "PI1",
+   "PI2",
+   "PI3",
+   "PI4",
+   "PI5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Ships, treasure & parrots",
+  "brief": ""
+ },
+ "SH": {
+  "name": "Superhero Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "SH1",
+   "SH2",
+   "SH3",
+   "SH4",
+   "SH5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Kid heroes, capes & a hero dog",
+  "brief": ""
+ },
+ "KD": {
+  "name": "Knights and Dragons Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "KD1",
+   "KD2",
+   "KD3",
+   "KD4",
+   "KD5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Brave knights & friendly dragons",
+  "brief": ""
+ },
+ "SO": {
+  "name": "Sports Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "SO1",
+   "SO2",
+   "SO3",
+   "SO4",
+   "SO5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Soccer, basketball, baseball & more",
+  "brief": ""
+ },
+ "DX": {
+  "name": "Christmas Dinosaur Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "DX1",
+   "DX2",
+   "DX3",
+   "DX4",
+   "DX5"
+  ],
+  "section": "Seasonal",
+  "sub": "T-rex in a Santa hat & more",
+  "brief": ""
+ },
+ "XU": {
+  "name": "Christmas Unicorn Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "XU1",
+   "XU2",
+   "XU3",
+   "XU4",
+   "XU5"
+  ],
+  "section": "Seasonal",
+  "sub": "Magical unicorns at Christmas",
+  "brief": ""
+ },
+ "FU": {
+  "name": "Fairy Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "FU1",
+   "FU2",
+   "FU3",
+   "FU4",
+   "FU5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Cute fairies & fairy gardens",
+  "brief": ""
+ },
+ "BL": {
+  "name": "Ballerina Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "BL1",
+   "BL2",
+   "BL3",
+   "BL4",
+   "BL5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Tutus, twirls & ballet bunnies",
+  "brief": ""
+ },
+ "AX": {
+  "name": "Axolotl Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "AX1",
+   "AX2",
+   "AX3",
+   "AX4",
+   "AX5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Kawaii axolotls kids adore",
+  "brief": ""
+ },
+ "SL": {
+  "name": "Sloth Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "SL1",
+   "SL2",
+   "SL3",
+   "SL4",
+   "SL5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Sleepy, cozy kawaii sloths",
+  "brief": ""
+ },
+ "LL": {
+  "name": "Llama Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "LL1",
+   "LL2",
+   "LL3",
+   "LL4",
+   "LL5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Flower crowns, scarves & cacti",
+  "brief": ""
+ },
+ "ZO": {
+  "name": "Zoo Animals Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "ZO1",
+   "ZO2",
+   "ZO3",
+   "ZO4",
+   "ZO5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Giraffes, lions, hippos & pandas",
+  "brief": ""
+ },
+ "JG": {
+  "name": "Jungle Animals Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "JG1",
+   "JG2",
+   "JG3",
+   "JG4",
+   "JG5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Tigers, toucans & crocodiles",
+  "brief": ""
+ },
+ "IN": {
+  "name": "Cute Bugs Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "IN1",
+   "IN2",
+   "IN3",
+   "IN4",
+   "IN5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Ladybugs, bees & caterpillars",
+  "brief": ""
+ },
+ "PU": {
+  "name": "Puppy Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "PU1",
+   "PU2",
+   "PU3",
+   "PU4",
+   "PU5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Playful, sleepy, splashy puppies",
+  "brief": ""
+ },
+ "KT": {
+  "name": "Kitten Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "KT1",
+   "KT2",
+   "KT3",
+   "KT4",
+   "KT5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Yarn, boxes & butterflies",
+  "brief": ""
+ },
+ "CM": {
+  "name": "Camping Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "CM1",
+   "CM2",
+   "CM3",
+   "CM4",
+   "CM5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Tents, campfires & s'mores",
+  "brief": ""
+ },
+ "HB": {
+  "name": "Happy Birthday Coloring Pages",
+  "price": 3.99,
+  "pages": [
+   "HB1",
+   "HB2",
+   "HB3",
+   "HB4",
+   "HB5"
+  ],
+  "section": "Kids Coloring Pages",
+  "sub": "Cakes, balloons & party fun",
+  "brief": ""
+ },
+ "MB1": {
+  "name": "Boys Coloring Book",
+  "price": 9.99,
+  "pages": [
+   "MO1",
+   "MO2",
+   "MO3",
+   "MO4",
+   "MO5",
+   "CV1",
+   "CV2",
+   "CV3",
+   "CV4",
+   "CV5",
+   "RC1",
+   "RC2",
+   "RC3",
+   "RC4",
+   "RC5",
+   "RB1",
+   "RB2",
+   "RB3",
+   "RB4",
+   "RB5",
+   "PI1",
+   "PI2",
+   "PI3",
+   "PI4",
+   "PI5",
+   "SH1",
+   "SH2",
+   "SH3",
+   "SH4",
+   "SH5",
+   "KD1",
+   "KD2",
+   "KD3",
+   "KD4",
+   "KD5",
+   "SO1",
+   "SO2",
+   "SO3",
+   "SO4",
+   "SO5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "40 pages: trucks, robots, pirates & heroes",
+  "brief": ""
+ },
+ "MB2": {
+  "name": "Girls Coloring Book",
+  "price": 9.99,
+  "pages": [
+   "FU1",
+   "FU2",
+   "FU3",
+   "FU4",
+   "FU5",
+   "BL1",
+   "BL2",
+   "BL3",
+   "BL4",
+   "BL5",
+   "AX1",
+   "AX2",
+   "AX3",
+   "AX4",
+   "AX5",
+   "SL1",
+   "SL2",
+   "SL3",
+   "SL4",
+   "SL5",
+   "LL1",
+   "LL2",
+   "LL3",
+   "LL4",
+   "LL5",
+   "PR1",
+   "PR2",
+   "PR3",
+   "PR4",
+   "PR5",
+   "ME1",
+   "ME2",
+   "ME3",
+   "ME4",
+   "ME5",
+   "UN1",
+   "UN2",
+   "UN3",
+   "UN4",
+   "UN5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "40 pages: fairies, ballet, unicorns & more",
+  "brief": ""
+ },
+ "MB3": {
+  "name": "Vehicles Coloring Book",
+  "price": 7.99,
+  "pages": [
+   "MO1",
+   "MO2",
+   "MO3",
+   "MO4",
+   "MO5",
+   "CV1",
+   "CV2",
+   "CV3",
+   "CV4",
+   "CV5",
+   "RC1",
+   "RC2",
+   "RC3",
+   "RC4",
+   "RC5",
+   "Z1",
+   "Z2",
+   "Z3",
+   "Z4",
+   "Z5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "20 pages of trucks, cars & trains",
+  "brief": ""
+ },
+ "MB4": {
+  "name": "Cute Animals Coloring Book",
+  "price": 7.99,
+  "pages": [
+   "AX1",
+   "AX2",
+   "AX3",
+   "AX4",
+   "AX5",
+   "SL1",
+   "SL2",
+   "SL3",
+   "SL4",
+   "SL5",
+   "LL1",
+   "LL2",
+   "LL3",
+   "LL4",
+   "LL5",
+   "PU1",
+   "PU2",
+   "PU3",
+   "PU4",
+   "PU5",
+   "KT1",
+   "KT2",
+   "KT3",
+   "KT4",
+   "KT5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "25 kawaii animal pages",
+  "brief": ""
+ },
+ "MB5": {
+  "name": "Kids Christmas Fun Pack",
+  "price": 7.99,
+  "pages": [
+   "DX1",
+   "DX2",
+   "DX3",
+   "DX4",
+   "DX5",
+   "XU1",
+   "XU2",
+   "XU3",
+   "XU4",
+   "XU5",
+   "V1",
+   "V2",
+   "V3",
+   "V4",
+   "V5",
+   "K1",
+   "K2",
+   "K3",
+   "K4",
+   "K5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "20 Christmas pages kids love",
+  "brief": ""
+ },
+ "MB6": {
+  "name": "Safari and Zoo Coloring Book",
+  "price": 6.99,
+  "pages": [
+   "ZO1",
+   "ZO2",
+   "ZO3",
+   "ZO4",
+   "ZO5",
+   "JG1",
+   "JG2",
+   "JG3",
+   "JG4",
+   "JG5",
+   "OC1",
+   "OC2",
+   "OC3",
+   "OC4",
+   "OC5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "15 wild animal pages",
+  "brief": ""
+ },
+ "MB7": {
+  "name": "Adventure Coloring Book",
+  "price": 6.99,
+  "pages": [
+   "PI1",
+   "PI2",
+   "PI3",
+   "PI4",
+   "PI5",
+   "KD1",
+   "KD2",
+   "KD3",
+   "KD4",
+   "KD5",
+   "SH1",
+   "SH2",
+   "SH3",
+   "SH4",
+   "SH5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "15 pages: pirates, knights & heroes",
+  "brief": ""
+ },
+ "MB8": {
+  "name": "Kids Mega Coloring Book",
+  "price": 12.99,
+  "pages": [
+   "MO1",
+   "MO2",
+   "MO3",
+   "MO4",
+   "MO5",
+   "CV1",
+   "CV2",
+   "CV3",
+   "CV4",
+   "CV5",
+   "DX1",
+   "DX2",
+   "DX3",
+   "DX4",
+   "DX5",
+   "XU1",
+   "XU2",
+   "XU3",
+   "XU4",
+   "XU5",
+   "FU1",
+   "FU2",
+   "FU3",
+   "FU4",
+   "FU5",
+   "AX1",
+   "AX2",
+   "AX3",
+   "AX4",
+   "AX5",
+   "SL1",
+   "SL2",
+   "SL3",
+   "SL4",
+   "SL5",
+   "LL1",
+   "LL2",
+   "LL3",
+   "LL4",
+   "LL5",
+   "PU1",
+   "PU2",
+   "PU3",
+   "PU4",
+   "PU5",
+   "KT1",
+   "KT2",
+   "KT3",
+   "KT4",
+   "KT5",
+   "SH1",
+   "SH2",
+   "SH3",
+   "SH4",
+   "SH5",
+   "PI1",
+   "PI2",
+   "PI3",
+   "PI4",
+   "PI5"
+  ],
+  "section": "Coloring Bundles",
+  "sub": "60 pages of kids' favorites",
+  "brief": ""
  }
 }

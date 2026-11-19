@@ -349,3 +349,27 @@ Kullanıcıya kısa bir Türkçe rapor ver: kaç ilan yayında, hangi konular, d
 - **Kapak stili:** yeni setlerde `cover2run.py` (cover2 "hero") kullan. 18 eski ilanın kapağı da v2'ye çevrildi.
 - **Sayfa alt metni:** `build.py` içinde "Bold lines, big spaces" (A, C, D, E, X için) ya da "Print, color, enjoy".
 - **PDF boyutu:** Etsy dijital dosya sınırı 20 MB. 20 sayfalık CY ~6 MB. 50 sayfalık BA da sığdı; daha büyük paketlerde boyutu kontrol et.
+
+---
+
+## 6. EK: 7. SERİ (19 Kasım), YÜKLEME BEKLİYOR
+Kullanıcı ünlü çizgi film karakterleri istedi. Lisanslı karakter **kullanılmadı**; bunun yerine özgün karakterli, çocukların en çok aradığı temalar seçildi.
+
+**Hazır ama henüz Etsy'ye yüklenmemiş 26 ilan.** Dosyalar GitHub'da `mira/<key>/` ve `mira/seo_<key>.txt` altında. Helper SHA: `0cf0c69`.
+- **Setler** ($3.99): CV, RC, RB, PI, SH, KD, SO, FU, BL, AX, SL, LL, ZO, JG, IN, PU, KT, CM, HB → bölüm Kids (61426958). DX, XU → bölüm Seasonal (61441647).
+- **Paketler** (bölüm Bundles 61427018):
+
+  | Paket | Fiyat |
+  |---|---|
+  | MB2 | $9.99 |
+  | MB4 | $7.99 |
+  | MB5 | $7.99 |
+  | MB6 | $6.99 |
+  | MB7 | $6.99 |
+
+**Bekleyen:**
+- **MO (Monster Truck)** setinde MO4 sayfası eksik. ChatGPT görsel limiti dolduğu için çizilemedi.
+  - Prompt: "a monster truck with flames painted on the side, drawn as a real vehicle with no face and no eyes" (K stili).
+- MO tamamlanınca şu paketler oluşturulacak: MB1 ($9.99), MB3 ($7.99), MB8 ($12.99, 60 sayfa).
+  - Paketlerin içerikleri `tools/mira/seo7.py` dosyasında. `products.json`'da zaten tanımlılar.
+- **Kural:** araçları (monster truck, yarış arabası) yüzsüz çiz. Gözler ön camda olursa Pixar Cars'a benziyor.
